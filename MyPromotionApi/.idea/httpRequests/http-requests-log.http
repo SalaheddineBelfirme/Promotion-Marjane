@@ -1,0 +1,980 @@
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "18",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-13T100142.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "18",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-13T093022.201.json
+
+###
+
+DELETE http://localhost:8081/MyPromotionApi_war_exploded/api/promotion/value
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T002455.400.html
+
+###
+
+DELETE http://localhost:8081/MyPromotionApi_war_exploded/api/promotion/value
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-13T002325.400.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T224605.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T224309.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T224139.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T224120.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/departmentAdmin
+Content-Type: application/json
+Content-Length: 58
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah@gmail.com",
+  "password": "salah123"
+}
+
+<> 2023-11-12T223530.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T223507.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T223419.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/departmentAdmin
+Content-Type: application/json
+Content-Length: 58
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah@gmail.com",
+  "password": "salah123"
+}
+
+<> 2023-11-12T223410.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/departmentAdmin
+Content-Type: application/json
+Content-Length: 58
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah@gmail.com",
+  "password": "salah123"
+}
+
+<> 2023-11-12T223118.201.json
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T221151.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T220051.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "88",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T220005.201.json
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "78",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T215932.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "78",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T214958.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "78",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T213626.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 317
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "78",
+
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+<> 2023-11-12T213548.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 316
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "32",
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 316
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "32",
+  "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 224
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "32",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 224
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "32",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 224
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "32",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 272
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "32",
+"uuid": "123e4567-e89b-12d3-a456-426614174002",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 272
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "32",
+"uuid": "123e4567-e89b-12d3-a456-426614174002",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 272
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"percentage": "90",
+"uuid": "123e4567-e89b-12d3-a456-426614174002",
+"product": {
+"uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+"name": "test",
+"brand": "testbrand",
+"price": "6969",
+"category": {
+"uuid": "123e4567-e89b-12d3-a456-426614174001",
+"name": "category"
+}
+}
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 316
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "90",
+  "uuid": "123e4567-e89b-12d3-a456-426614174001",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "test",
+    "brand": "testbrand",
+    "price": "6969",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "category"
+    }
+  }
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 235
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "90",
+  "uuid": "123e4567-e89b-12d3-a456-426614174001",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+
+    }
+  }
+}
+
+<> 2023-11-12T182026.400.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 321
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "90",
+  "uuid": "123e4567-e89b-12d3-a456-426614174001",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "ptest",
+    "price": "2332",
+    "brand": "brnadtetst",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "testcatgory"
+    }
+  }
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 321
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50",
+  "uuid": "123e4567-e89b-12d3-a456-426614174001",
+  "product": {
+    "uuid": "eca9ab69-695d-4f0b-9a9a-e427cc49bd4a",
+    "name": "ptest",
+    "price": "2332",
+    "brand": "brnadtetst",
+    "category": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "testcatgory"
+    }
+  }
+}
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/departmentAdmin
+Content-Type: application/json
+Content-Length: 58
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah@gmail.com",
+  "password": "salah123"
+}
+
+<> 2023-11-12T175233.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/departmentAd
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah@gmail.com",
+  "password": "salah123"
+}
+
+
+<> 2023-11-12T175206.404.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T152816.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T152743.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T152124.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T151700.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T151508.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 24
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": "50"
+}
+
+<> 2023-11-12T151443.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "percentage": 50
+}
+
+<> 2023-11-12T151405.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/centerAdministrator
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "salah",
+"password":"salah123"
+}
+
+<> 2023-11-12T151350.201.json
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/centerAdministrator
+Content-Type: application/json
+{:
+  "email": "salah",
+"password": "salah123"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T151244.400.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T151053.500.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T150943.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/centerAdministrator
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T150812.405.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/centerAdministrator
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T150740.405.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T150714.500.html
+
+###
+
+GET http://localhost:8081/MyPromotionApi_war_exploded/api/centerAdministrator
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T150635.405.html
+
+###
+
+POST http://localhost:8081/MyPromotionApi_war_exploded/api/promotion
+Content-Type: application/json
+Content-Length: 18
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{"percentage": 50}
+
+<> 2023-11-12T140359.500.html
+
+###
+
